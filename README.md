@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### My name is AJ. I am currently learning Rust as well as React. 
 <!--
 **ajabotomey/ajabotomey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
